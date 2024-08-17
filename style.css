@@ -1,0 +1,62 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: lightblue;
+    height: 100%;
+    margin: 0;
+}
+h1 {
+    color: navy;
+    margin-left: 500px;
+    font-size: 2em;
+    margin-top: 5rem;
+}
+p {
+    font-size: 20px;
+}
+nav {
+    background-color: white;
+    width: 85%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+nav p {
+    margin-top: 1rem;
+}
+span {
+    margin-left: 5rem;
+}
+#content {
+    background-color: lightblue;
+    width: 84%;
+    float: left;
+    height: 80%;
+    margin-left: 1.19rem;
+}
+#sidebar {
+    background-color: whitesmoke;
+    width: 15%;
+    float: left;
+    height: 90%;
+    font-weight: bold;
+}
+
+#sidebar p {
+    margin-left: 2rem;
+}
+#HTML {
+    margin-top: 5rem;
+}
+#footer {
+    background-color: dimgray;
+    width: 100%;
+    float: left;
+    height: 7em
+}
+#footer p{
+    margin-left: 1rem;
+    margin-top: 3rem;
+}
